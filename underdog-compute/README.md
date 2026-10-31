@@ -1,25 +1,48 @@
-# UNFURL — Compute for the absolute underdogs
+# UNFURL
+## An initiative to make advanced AI compute available to people whose ideas deserve a chance
 
-There needs to be an initiative where the big AI providers donate some serious compute time to a solopreneur or small unknown group in case they have something worth developing.
+Advanced AI is increasingly accessible as a service. Access to the sustained computational resources needed to develop ambitious ideas, however, remains a different matter. Individuals and small, independent groups may have original and consequential work to pursue but lack the resources, institutional backing, or visibility required to pursue it at scale.
 
-Let's see what the absolute underdogs have to offer. Expose the projects publicly, give promising people a concentrated burst of compute and capable AI agents in an isolated environment, and see what happens.
+**UNFURL proposes that major AI providers dedicate a portion of their computational capacity to such people and projects.** The objective is to discover what becomes possible when the potential of an idea, rather than the resources or social position of its creator, determines the opportunity to develop it.
 
-AI tools are reaching more people than ever. But having access to an AI product isn't the same as having the resources to develop an ambitious idea with it. The [2026 Stanford AI Index](https://hai.stanford.edu/ai-index/2026-ai-index-report) reports that industry produced over 90% of notable frontier models in 2025. And the ambition that AI should benefit everyone is already stated in [OpenAI's Charter](https://openai.com/charter/). Here's one way to make some of that benefit productive in the hands of people who otherwise wouldn't get the chance.
+A lone inventor may have spent years on work that has never attracted the attention of an investor or research institution. Providing that person with advanced models, capable AI agents, and substantial compute over a concentrated period could reveal possibilities that would otherwise remain unexplored. The results should be documented so that the public can see both the starting point and what the additional resources made possible.
 
-A lone inventor might have spent ten years developing something nobody has recognized yet. Give that person access to serious computational resources and a concentrated development window. Publicly demonstrate what happens. Select people for the potential of what they're developing, rather than their ability to attract investors, assemble a company, or market themselves.
+### Public selection, informed by expertise
 
-**The people select people, not the donors.** The AI providers contribute compute, and their expertise is welcome. But how informed and motivated is the public to grasp the potential of unfamiliar projects, no matter how well presented? Focus is a problem. Let the public, independent experts and AI providers put in their two cents, examine the work from different perspectives, and use AI to help explain its substance without distorting it.
+**The public selects the people and projects. The providers contribute resources.**
 
-Separate **evaluation from selection**. The more people discuss a project, question it, challenge its assumptions and discover connections to other work, the more potential can become visible. Popularity, expertise and commercial potential are three different things. None reliably measures how much an idea might contribute to humanity. Some compute should even go to projects that nobody can agree on.
+Public judgment nevertheless benefits from informed discussion. A project's significance may be difficult to understand, even when presented clearly; technical complexity, limited attention, and unfamiliar subject matter can obscure its potential. The public, independent experts, and AI providers should therefore have opportunities to examine proposals, ask questions, challenge assumptions, and offer assessments. AI can also help explain specialized work in accessible language while preserving its substance.
 
-And this shouldn't be a single winner every year or whatever. As long as there is stuff to unfold, unfurl it.
+**Evaluation and selection are distinct.** Expert and provider assessments contribute to public understanding; the allocation process remains publicly accountable and independent of donor interests. Visibility, popularity, credentials, and immediate commercial appeal must not be mistaken for potential.
 
-Give a promising project some compute, see what unfolds, publish the findings, and let that inform what happens next. Some projects will reveal entirely new possibilities. Others might unlock something valuable for a completely different project. Creators retain ownership of their work; the public gets to witness the development of ideas, not merely vote on promises.
+Projects that provoke disagreement also deserve consideration. Uncertainty about their eventual value may be precisely what makes a limited experiment worth conducting.
 
-**Compute follows unfolding potential, not a calendar, a fixed prize pool or a popularity ranking.**
+### Continuous discovery rather than an annual prize
 
----
+This initiative is not intended to produce a single winner, or an arbitrary fixed number of winners, on a predetermined schedule.
 
-Have something worth developing? [Put the project forward](https://github.com/aRcHmaGe333/medium/issues/new). Want to examine an idea, join the discussion or contribute compute? [Take part](https://github.com/aRcHmaGe333/medium/issues).
+Promising projects should be able to receive an initial allocation of compute, demonstrate what it enables, and return for further consideration as new possibilities emerge. Results may justify continued support, suggest a different direction, or reveal opportunities for entirely separate projects.
 
-*This is an open public proposal, not an announced provider program. No compute contributions or project selections have been confirmed.*
+In this way, **compute follows unfolding potential**. Participation, evaluation, allocation, development, and public discussion remain ongoing for as long as there is valuable work to pursue.
+
+### What participation would involve
+
+Individuals and small groups could present an idea, existing work, or an unresolved problem. The community would examine the proposal, supported by independent technical input and contributions from AI providers. Selected projects would receive substantial, time-bounded computational resources in appropriately isolated environments, with further allocations considered in light of their results.
+
+Creators would retain ownership of their work. Public reporting would make the development process and outcomes visible while respecting legitimate needs for confidentiality, security, and intellectual property protection.
+
+AI providers would contribute compute and technical expertise. In return, they would gain insight into applications, discoveries, and development paths that may not emerge within established research programs or commercial markets.
+
+The central question is straightforward: **what could people accomplish if access to extraordinary computational resources were determined by the promise of their ideas rather than their existing means?**
+
+### Participate
+
+- **Propose a project:** [Present an idea or existing work](https://github.com/aRcHmaGe333/medium/issues/new).
+- **Contribute to evaluation:** [Examine proposals and join the discussion](https://github.com/aRcHmaGe333/medium/issues).
+- **Offer compute or technical support:** [Register an offer of support](https://github.com/aRcHmaGe333/medium/issues/new).
+
+This is a public initiative proposal, open to participation and development. Computational contributions and a formal selection process have not yet been established.
+
+### Context
+
+The distinction between access to AI services and access to the resources required to develop advanced AI is important. The [Stanford AI Index](https://hai.stanford.edu/ai-index/2026-ai-index-report) documents the concentration of notable AI model development in industry. [OpenAI's Charter](https://openai.com/charter/) expresses the ambition that artificial general intelligence benefit humanity broadly. UNFURL proposes a practical form of broader participation in creating those benefits.
