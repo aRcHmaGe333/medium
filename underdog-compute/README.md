@@ -25,9 +25,17 @@ Promising projects should be able to receive an initial allocation of compute, d
 
 In this way, **compute follows unfolding potential**. Participation, evaluation, allocation, development, and public discussion remain ongoing for as long as there is valuable work to pursue.
 
+### A continuing pool of project proposals
+
+Every submitted **project proposal** can remain in the pool, whether or not it receives support during its first evaluation. Its author can update and improve it over time, add research or working results, respond to criticism, and bring new evidence forward for further consideration. Earlier versions remain part of the record. A proposal's prospects are not determined by a single presentation, vote, or deadline.
+
+**IPClaim** ([project and verification procedure](https://github.com/aRcHmaGe333/IPClaim)) is proposed as the record of the work and its development. Creators can apply IPClaim to their own Git repositories and link the resulting independently verifiable, cryptographically timestamped evidence to their proposals. As the work develops, new versions can be recorded while preserving evidence of earlier contributions and their dates. IPClaim establishes evidence of the exact recorded content and when it existed; it is not, by itself, a legal determination of ownership or priority over other people's work.
+
+This allows proposals to evolve in public without discarding their history. It also gives contributors a practical way to establish the origin of their work before seeking attention, collaboration, or substantial compute.
+
 ### What participation would involve
 
-Individuals and small groups could present an idea, existing work, or an unresolved problem. The community would examine the proposal, supported by independent technical input and contributions from AI providers. Selected projects would receive substantial, time-bounded computational resources in appropriately isolated environments, with further allocations considered in light of their results.
+Individuals and small groups could submit a project proposal describing an idea, existing work, or an unresolved problem, together with supporting material and, where available, a linked IPClaim record. The proposal would remain open to updates and renewed evaluation. The community would examine the work, supported by independent technical input and contributions from AI providers. Selected projects would receive substantial, time-bounded computational resources in appropriately isolated environments, with further allocations considered in light of their results.
 
 Creators would retain ownership of their work. Public reporting would make the development process and outcomes visible while respecting legitimate needs for confidentiality, security, and intellectual property protection.
 
