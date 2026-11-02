@@ -2,11 +2,17 @@
 
 **Author and originator of the proposed research direction:** Slavko Stojnić  
 **Publication date:** 2 November 2026  
-**Status:** Research proposal and testable methodological hypothesis; not an experimental report.
+**Status:** Foundational research-and-development programme; scientific disclosure of the proposed architecture, methods and falsifiable hypotheses. Implementation and experimental validation remain future work.
+
+## Purpose
+
+The purpose is to discover and construct fundamentally new forms of matter and new capabilities of matter: unfamiliar monomers and polymers, unprecedented molecular architectures, behaviours and transformations, emergent functions, and principles that make whole previously inaccessible families of materials possible. Discovery is open-ended, extending beyond organic chemistry and beyond the improvement of known materials. The system is to generate, investigate, understand, construct where feasible, and progressively exploit these possibilities. Its database is an instrument for discovering rules and exceptions, and its simulations and experiments are instruments for changing what can be made.
+
+Scientific publication, citations, peer scrutiny, and independently verifiable authorship records serve to establish and defend the work, communicate evidence, and enable further construction. They are not its ultimate purpose.
 
 ## Abstract
 
-Contemporary computational materials discovery commonly generates candidates to improve specified properties. We propose a complementary, open-ended discovery system in which monomers, polymers, and potentially other molecular assemblies are generated and studied for properties and behaviours that need not be anticipated. The system explores dissimilar parents, constructs candidate combinations, and deliberately examines reflected and opposing directions in a representation of structural, functional, or temporal properties. It records not only successful candidates but failure modes, viability boundaries, unexpected symmetries, anomalous behaviours, environmental dependencies, and complete property trajectories over time. An evolving database supports both prediction and explicit induction and testing of explanatory rules. The research hypothesis is that controlled exploration of dissimilar and reflected candidate directions, coupled to boundary-seeking and life-cycle modelling, will discover more diverse and scientifically informative materials than conventional goal-directed selection under comparable computational budgets.
+Contemporary computational materials discovery commonly generates candidates to improve specified properties. Our purpose is materially different: to discover new forms and capabilities of matter and convert those discoveries into constructible systems, opening new families of possibilities rather than accumulating isolated candidates. We propose a complementary, open-ended discovery system in which monomers, polymers, and potentially other molecular assemblies are generated and studied for properties and behaviours that need not be anticipated. The system explores dissimilar parents, constructs candidate combinations, and deliberately examines reflected and opposing directions in a representation of structural, functional, or temporal properties. It records not only successful candidates but failure modes, viability boundaries, unexpected symmetries, anomalous behaviours, environmental dependencies, and complete property trajectories over time. An evolving database supports both prediction and explicit induction and testing of explanatory rules. The research hypothesis is that controlled exploration of dissimilar and reflected candidate directions, coupled to boundary-seeking and life-cycle modelling, will discover more diverse and scientifically informative materials than conventional goal-directed selection under comparable computational budgets.
 
 **Keywords:** polymer discovery; open-ended exploration; molecular design; diversity; symmetry; active learning; self-driving laboratories; materials informatics; digital twins; ageing; scientific discovery.
 
@@ -88,7 +94,15 @@ A targeted literature review supports treating that integration as a **research 
 
 Feature-space angles depend on normalization and representation; most candidate vectors are not directly invertible into chemically valid structures; model uncertainty may dominate in unfamiliar molecular regions; material ageing can span incompatible time and length scales; and computationally plausible materials may be inaccessible to synthesis. These are measurable research problems to investigate, not reasons to restrict the exploration to established material families.
 
-The first decisive demonstration is whether cross-vector and boundary-seeking exploration produces reproducible gains in *behavioral diversity and new explanatory findings*, rather than merely more unusual descriptor values.
+The first decisive demonstration is whether cross-vector and boundary-seeking exploration produces reproducible gains in *behavioural diversity, new explanatory findings and physically credible construction routes*, rather than merely more unusual descriptor values. Its further success is the discovery of reproducible material mechanisms and new classes of matter, together with practical routes from digital proposals to physical constructions.
+
+## 7. Development programme and scientific standard
+
+The work proceeds as a continuously expanding construction and discovery system. A research-grade implementation must document representations, simulation equations, uncertainty sources, computational budgets, comparison baselines, full candidate lineage, independent replication procedures and eventual experimental protocols. An initial engine should implement candidate generation, divergent pairing, four-direction exploration, constrained reverse generation, viability assessment, multi-fidelity simulation and persistent records in one executable loop. Later stages add experimentally calibrated surrogate models, time-dependent simulations, automated rule induction and acquisition of physical measurements. Each expansion is judged by demonstrated capability and new feasible discoveries, with publication following the evidence.
+
+Major directions include new stable and metastable molecular architectures, programmable matter and molecular information processing, self-organization, history-dependent materials, environmental adaptation, self-repair, controlled transformations, and the boundary between chemical dynamics and systems exhibiting life-like processes. These are exploration directions, not promises of feasibility or preselected target products. The search may discover wholly unexpected directions and reallocate effort toward them.
+
+A physical discovery claim requires explicit reproducibility and independent validation, including composition, structure, conditions, measurement method, uncertainty and comparison with known materials. A simulation-only result is identified as a prediction, and novelty claims remain limited to the evidence available. The scientific record should be sufficiently rigorous to withstand expert doctoral-level examination while remaining subordinate to the development of real capabilities.
 
 ## References
 
